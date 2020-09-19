@@ -1,0 +1,10 @@
+C:\Users\Frank Orozco\source\repos\Passgen\Passgen\bin\Debug\Passgen.exe.config
+C:\Users\Frank Orozco\source\repos\Passgen\Passgen\bin\Debug\Passgen.exe
+C:\Users\Frank Orozco\source\repos\Passgen\Passgen\bin\Debug\Passgen.pdb
+C:\Users\Frank Orozco\source\repos\Passgen\Passgen\obj\Debug\Passgen.csprojAssemblyReference.cache
+C:\Users\Frank Orozco\source\repos\Passgen\Passgen\obj\Debug\Passgen.MainForm.resources
+C:\Users\Frank Orozco\source\repos\Passgen\Passgen\obj\Debug\Passgen.Properties.Resources.resources
+C:\Users\Frank Orozco\source\repos\Passgen\Passgen\obj\Debug\Passgen.csproj.GenerateResource.cache
+C:\Users\Frank Orozco\source\repos\Passgen\Passgen\obj\Debug\Passgen.csproj.CoreCompileInputs.cache
+C:\Users\Frank Orozco\source\repos\Passgen\Passgen\obj\Debug\Passgen.exe
+C:\Users\Frank Orozco\source\repos\Passgen\Passgen\obj\Debug\Passgen.pdb
