@@ -23,8 +23,8 @@ command to run if program contains helper info
 
 ## Authors
 
-Frank Orozco
-F&O Technology
+* Frank Orozco
+* F&O Technology
 
 ## Version History
 
