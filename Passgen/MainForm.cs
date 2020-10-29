@@ -12,13 +12,21 @@ namespace Passgen
 {
     public partial class MainForm : Form
     {
+
+
+
+
         public MainForm()
         {
             InitializeComponent();
         }
 
-        private void clearButton_Click(object sender, EventArgs e)
+        private void generateButton_Click(object sender, EventArgs e)
         {
+            Password pass = new Password(upperCaseCheckBox.Checked, numbersCheckBox.Checked,
+                symbolsCheckBox.Checked, masterWordTextBox.Text, int.Parse(lengthComboBox.SelectedItem.ToString()));
+
+            string passgen = pass.
 
         }
     }
