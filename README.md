@@ -7,7 +7,19 @@ Passgen is a Windows Form App to create random but secure passwords
 
 Passgen is a desktop application to create random but secure passwords, this application works offline and has a huge number of combination easy to remember. 
 
-## Getting Started
+## Screenshots
+
+![alt text]https://github.com/FrankcoMiguel/Passgen/blob/master/screenshots/1.png?raw=true)
+
+
+![alt text]https://github.com/FrankcoMiguel/Passgen/blob/master/screenshots/2.png?raw=true)
+
+
+![alt text]https://github.com/FrankcoMiguel/Passgen/blob/master/screenshots/3.png?raw=true)
+
+
+![alt text]https://github.com/FrankcoMiguel/Passgen/blob/master/screenshots/4.png?raw=true)
+
 
 ### Dependencies
 
@@ -18,7 +30,7 @@ Passgen is a desktop application to create random but secure passwords, this app
 
 Any advise for common problems or issues.
 ```
-command to run if program contains helper info
+dotnet -h|--help
 ```
 
 ## Authors
