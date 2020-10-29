@@ -9,16 +9,16 @@ Passgen is a desktop application to create random but secure passwords, this app
 
 ## Screenshots
 
-![alt text]https://github.com/FrankcoMiguel/Passgen/blob/master/screenshots/1.png?raw=true)
+![alt text]https://github.com/FrankcoMiguel/Passgen/blob/master/screenshots/1.jpg?raw=true)
 
 
-![alt text]https://github.com/FrankcoMiguel/Passgen/blob/master/screenshots/2.png?raw=true)
+![alt text]https://github.com/FrankcoMiguel/Passgen/blob/master/screenshots/2.jpg?raw=true)
 
 
-![alt text]https://github.com/FrankcoMiguel/Passgen/blob/master/screenshots/3.png?raw=true)
+![alt text]https://github.com/FrankcoMiguel/Passgen/blob/master/screenshots/3.jpg?raw=true)
 
 
-![alt text]https://github.com/FrankcoMiguel/Passgen/blob/master/screenshots/4.png?raw=true)
+![alt text]https://github.com/FrankcoMiguel/Passgen/blob/master/screenshots/4.jpg?raw=true)
 
 
 ### Dependencies
