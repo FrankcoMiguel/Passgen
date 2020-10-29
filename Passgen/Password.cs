@@ -9,19 +9,17 @@ namespace Passgen
     class Password
     {
 
-        public bool HasUpperCase { get => HasUpperCase; set => HasUpperCase = value; }
-        private bool HasNumbers { get; set; }
-        private bool HasSpecialNumbers { get; set; }
-        private string MasterWord { get; set; }
-        private int Length { get; set; }
+        public bool HasUpperCase { get; set; }
+        public bool HasNumbers { get; set; }
+        public bool HasSpecialKeys { get; set; }
+        public int Length { get; set; }
 
 
-        public Password(bool hasUpperCase, bool hasNumbers, bool hasSpecialNumbers, string masterWord, int length)
+        public Password(bool hasUpperCase, bool hasNumbers, bool hasSpecialKeys, int length)
         {
             HasUpperCase = hasUpperCase;
             HasNumbers = hasNumbers;
-            HasSpecialNumbers = hasSpecialNumbers;
-            MasterWord = masterWord;
+            HasSpecialKeys = hasSpecialKeys;
             Length = length;
         }
 
