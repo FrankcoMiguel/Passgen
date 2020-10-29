@@ -11,8 +11,8 @@ Passgen is a desktop application to create random but secure passwords, this app
 
 ### Dependencies
 
-.NET Framework 4.7.2
-Windows 8/8.1/10
+* .NET Framework 4.7.2
+* Windows 8/8.1/10
 
 ## Help
 
